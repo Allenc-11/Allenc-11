@@ -4,10 +4,10 @@
 </p>
 
 # 👋 About Me:
-*Software Engineer | Computer Science Undergraduate at Toronto Metropolitan University*
+*Software Engineer | Computer Science and Mathematics Student at Toronto Metropolitan University*
 
 ## 🌟 What I Do:
-- **Full-Stack Development:** Creating dynamic web applications with **React**, **TypeScript**, and **Node.js**  
+- **Full-Stack Development:** Creating dynamic web applications with **React**, and **Node.js**  
 - **Backend Systems:** Designing scalable and high-performance architectures  
 - **DevOps:** Implementing **CI/CD pipelines** and automated testing for robust, reliable software  
 - **Code Craftsmanship:** Advocating for clean code, design patterns, and strong software architecture  
@@ -16,7 +16,7 @@ I believe in crafting solutions that are as sustainable as they are impactful.
 Let's connect and create something amazing together! 🚀
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/allenc11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allenc11/) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:allenjfchen1121@gmail.com)
 
 # 💻 Tech Stack:
